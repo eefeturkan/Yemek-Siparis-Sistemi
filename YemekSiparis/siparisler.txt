@@ -1,0 +1,24 @@
+Sipariþ Özeti:
+Telefon numarasý: 05313309970648484854564
+Restoran: 1
+Yemek: 1
+Icecek: 1
+Fiyat: 35 TL
+Sipariþ Özeti:
+Telefon numarasý: 0531330997094545645645
+Restoran: 2
+Yemek: 2
+Icecek: 2
+Fiyat: 50 TL
+Sipariþ Özeti:
+Telefon numarasý: 0531330997028554845
+Restoran: 3
+Yemek: 1
+Icecek: 2
+Fiyat: 25 TL
+Sipariþ Özeti:
+Telefon numarasý: 053133099709457325949
+Restoran: 3
+Yemek: 3
+Icecek: 2
+Fiyat: 35 TL
